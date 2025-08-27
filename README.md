@@ -1,2 +1,2 @@
 # C
-C projects beginner to advanced
+C projects that i make while taking CS50 from Harvard
